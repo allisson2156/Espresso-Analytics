@@ -1,8 +1,9 @@
 # Resumo de Métricas e Dimensões da Dashboard "Espresso Analytics" - Junho de 2023
 Análise de dados para extração de métricas chave de desempenho em diferentes lojas de café nos EUA para o período de Junho do Dashboard 
+![Dashboard - Junho ](https://github.com/user-attachments/assets/f9e3ac6f-1b30-47c8-98c4-6f8fb5f859ac)
 
-Métricas Principais:
 
+### Métricas Principais:
 Total de vendas: $166 Mil<br>
 Total de pedidos: 35,352 Mil<br>
 Quantidade total vendida: 50,942 Mil<br>
@@ -18,5 +19,5 @@ Período: Junho de 2023
 
 ![Dashboard - Março ](https://github.com/user-attachments/assets/36134643-770c-46d3-8a1b-7efd63eb9d67)
 
-![Dashboard - Junho ](https://github.com/user-attachments/assets/f9e3ac6f-1b30-47c8-98c4-6f8fb5f859ac)
+
 
