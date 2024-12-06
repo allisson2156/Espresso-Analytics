@@ -44,5 +44,5 @@ Estratégia para Localização Principal: Hell's Kitchen apresentou o maior cres
 
 - Queda nas Vendas de Chá: As vendas de chá tiveram uma queda de 3,6%; explorar as razões por trás dessa queda, como sazonalidade ou concorrência, e considerar campanhas promocionais para aumentar esses números. <br>
   
-- Promover Itens de Melhor Desempenho: Barista Espresso e Brewed Chai Tea tiveram um ótimo desempenho. Considere utilizá-los em campanhas de marketing para aumentar ainda mais sua visibilidade.
+- Promover Itens de Melhor Desempenho: Barista Espresso e Brewed Chai Tea tiveram um ótimo desempenho. Utilizá-los em campanhas de marketing para aumentar ainda mais sua visibilidade seria uma ótima opção para a empresa.
 
