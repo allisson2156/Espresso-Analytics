@@ -30,7 +30,7 @@ Outras categorias relevantes incluem "Tea" com $46,24K (+3,8%) e "Bakery" com $1
 
 ![Total de Vendas por Categoria-Item e Vendas por Dia](https://github.com/user-attachments/assets/6c9482e6-1fa5-4638-8130-3b86d5b384f9)
 
-![Painel de Filtros](https://github.com/user-attachments/assets/8cc1f1aa-2216-481f-81e1-1f86e7fb8b91)
+![Painel de Filtros](https://github.com/user-attachments/assets/ee5e09ac-6ca3-4ad1-88b0-7c55c93d1cf8)
 
 # Exemplo em Outro Mês 
 ![Dashboard - Março ](https://github.com/user-attachments/assets/36134643-770c-46d3-8a1b-7efd63eb9d67)
