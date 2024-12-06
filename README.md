@@ -4,10 +4,10 @@ Análise de dados para extração de métricas chave de desempenho em diferentes
 
 
 ## Métricas Principais:
-<span style="color:#AC6345">Total de vendas: $166 Mil</span>  
-<span style="color:#AC6345">Total de pedidos: 35.352 Mil</span>  
-<span style="color:#AC6345">Quantidade total vendida: 50.942 Mil</span>  
-<span style="color:#AC6345">Período: Junho de 2023</span>
+Total de vendas: $166 Mil<br>
+Total de pedidos: 35,352 Mil<br>
+Quantidade total vendida: 50,942 Mil<br>
+Período: Junho de 2023
 
 
 ![image](https://github.com/user-attachments/assets/a9538287-d26e-4506-b816-4ae8fbe88d7b)
@@ -26,6 +26,7 @@ Outras localizações também apresentaram bom desempenho, como Astoria com $55,
 
 ![Paínel de Filtros ](https://github.com/user-attachments/assets/12822be6-329e-4a24-8015-69368ba48d76)
 
+# Exemplo em Outro Mês 
 ![Dashboard - Março ](https://github.com/user-attachments/assets/36134643-770c-46d3-8a1b-7efd63eb9d67)
 
 
