@@ -38,6 +38,8 @@ Durante os finais de semana, as vendas somaram $45 Mil, representando 27,03% do 
 A loja em Hell's Kitchen registrou o maior valor de vendas, totalizando $56,96K, com um crescimento de +8,3% em comparação ao mês anterior.
 Outras localizações também apresentaram bom desempenho, como Astoria com $55,08K e Lower Manhattan com $54,45K, que mostram crescimento moderado. <br> 
 
+![Painel de Filtros](https://github.com/user-attachments/assets/62a2c099-29d1-4706-bda0-64889d809918)
+
 ![Paínel de Filtros ](https://github.com/user-attachments/assets/12822be6-329e-4a24-8015-69368ba48d76)
 
 # Exemplo em Outro Mês 
