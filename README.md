@@ -3,10 +3,10 @@ Análise de dados para extração de métricas chave de desempenho em diferentes
 
 Métricas Principais:
 
-Total de vendas: $166 Mil
-Total de pedidos: 35,352 Mil
-Quantidade total vendida: 50,942 Mil
-Período: Junho de 2023 
+Total de vendas: $166 Mil<br>
+Total de pedidos: 35,352 Mil<br>
+Quantidade total vendida: 50,942 Mil<br>
+Período: Junho de 2023
 
 ![image](https://github.com/user-attachments/assets/a9538287-d26e-4506-b816-4ae8fbe88d7b)
 
