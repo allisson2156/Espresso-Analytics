@@ -1,7 +1,13 @@
-# Dados da Análise de Vendas 
-Análise de dados para extração de métricas chave de desempenho em diferentes lojas de café nos EUA.
+# Resumo de Métricas e Dimensões da Dashboard "Espresso Analytics" - Junho de 2023
+Análise de dados para extração de métricas chave de desempenho em diferentes lojas de café nos EUA para o período de Junho do Dashboard 
 
-Mês: Junho 
+Métricas Principais:
+
+Total de vendas: $166 Mil
+Total de pedidos: 35,352 Mil
+Quantidade total vendida: 50,942 Mil
+Período: Junho de 2023 
+
 ![image](https://github.com/user-attachments/assets/a9538287-d26e-4506-b816-4ae8fbe88d7b)
 
 ![Variação de Vendas ao Longo do Período](https://github.com/user-attachments/assets/9992d321-04ee-49fd-a12c-3b24fe13da01)
