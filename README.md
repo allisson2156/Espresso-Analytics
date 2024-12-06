@@ -39,8 +39,9 @@ Outras categorias relevantes incluem "Tea" com $46,24K (+3,8%) e "Bakery" com $1
 
 # Recomendações e Próximos Passos
 
-- Analisar o Desempenho Semana vs Fim de Semana: Investigar por que as vendas durante os dias úteis representam uma parte tão significativa (73%) em comparação aos fins de semana e explorar estratégias para impulsionar as vendas nos finais de semana.
-Estratégia para Localização Principal: Hell's Kitchen apresentou o maior crescimento, e estratégias semelhantes poderiam ser implementadas em Astoria e Lower Manhattan para impulsionar o desempenho. <br>
+- Analisar o Desempenho Semana vs Fim de Semana: Investigar por que as vendas durante os dias úteis representam uma parte tão significativa (73%) em comparação aos fins de semana e explorar estratégias para impulsionar as vendas nos finais de semana. <br>
+
+- Estratégia para Localização Principal: Hell's Kitchen apresentou o maior crescimento, e estratégias semelhantes poderiam ser implementadas em Astoria e Lower Manhattan para impulsionar o desempenho. <br>
 
 - Queda nas Vendas de Chá: As vendas de chá tiveram uma queda de 3,6%; explorar as razões por trás dessa queda, como sazonalidade ou concorrência, e considerar campanhas promocionais para aumentar esses números. <br>
   
