@@ -30,17 +30,7 @@ Outras categorias relevantes incluem "Tea" com $46,24K (+3,8%) e "Bakery" com $1
 
 ![Total de Vendas por Categoria-Item e Vendas por Dia](https://github.com/user-attachments/assets/6c9482e6-1fa5-4638-8130-3b86d5b384f9)
 
-## Vendas Semana/Fim de Semana:
-A maioria das vendas ocorreram durante os dias da semana, totalizando $121 Mil, representando 72,97% do total de vendas.
-Durante os finais de semana, as vendas somaram $45 Mil, representando 27,03% do total. Essa diferença pode indicar maior demanda de produtos durante os dias úteis, sugerindo um comportamento de consumo mais alinhado ao cotidiano de trabalho. <br>
-
-## Localização das Lojas:
-A loja em Hell's Kitchen registrou o maior valor de vendas, totalizando $56,96K, com um crescimento de +8,3% em comparação ao mês anterior.
-Outras localizações também apresentaram bom desempenho, como Astoria com $55,08K e Lower Manhattan com $54,45K, que mostram crescimento moderado. <br> 
-
 ![Painel de Filtros](https://github.com/user-attachments/assets/62a2c099-29d1-4706-bda0-64889d809918)
-
-![Paínel de Filtros ](https://github.com/user-attachments/assets/12822be6-329e-4a24-8015-69368ba48d76)
 
 # Exemplo em Outro Mês 
 ![Dashboard - Março ](https://github.com/user-attachments/assets/36134643-770c-46d3-8a1b-7efd63eb9d67)
