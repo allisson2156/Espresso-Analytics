@@ -28,7 +28,8 @@ Outras categorias relevantes incluem "Tea" com $46,24K (+3,8%) e "Bakery" com $1
 "Gourmet Brewed Coffee" com $17,14K <br> 
 "Hot Chocolate" com $17,11K <br> 
 
-![Total de Vendas por Categoria-Item e Vendas por Dia](https://github.com/user-attachments/assets/6c9482e6-1fa5-4638-8130-3b86d5b384f9)
+![Total de Vendas por Categoria-Item e Vendas por Dia](https://github.com/user-attachments/assets/6c9482e6-1fa5-4638-8130-3b86d5b384f9) 
+<br> 
 
 ![Painel de Filtros](https://github.com/user-attachments/assets/911c95ce-d92a-401f-8003-875014ae9441)
 
@@ -36,5 +37,12 @@ Outras categorias relevantes incluem "Tea" com $46,24K (+3,8%) e "Bakery" com $1
 # Exemplo em Outro Mês 
 ![Dashboard - Março ](https://github.com/user-attachments/assets/36134643-770c-46d3-8a1b-7efd63eb9d67)
 
+# Recomendações e Próximos Passos
 
+- Analisar o Desempenho Semana vs Fim de Semana: Investigar por que as vendas durante os dias úteis representam uma parte tão significativa (73%) em comparação aos fins de semana e explorar estratégias para impulsionar as vendas nos finais de semana.
+Estratégia para Localização Principal: Hell's Kitchen apresentou o maior crescimento, e estratégias semelhantes poderiam ser implementadas em Astoria e Lower Manhattan para impulsionar o desempenho. <br>
+
+- Queda nas Vendas de Chá: As vendas de chá tiveram uma queda de 3,6%; explorar as razões por trás dessa queda, como sazonalidade ou concorrência, e considerar campanhas promocionais para aumentar esses números. <br>
+  
+- Promover Itens de Melhor Desempenho: Barista Espresso e Brewed Chai Tea tiveram um ótimo desempenho. Considere utilizá-los em campanhas de marketing para aumentar ainda mais sua visibilidade.
 
