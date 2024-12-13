@@ -1,5 +1,3 @@
-
-
 DESCRIBE coffee_shop_sales;
 
 -- Adicionar uma nova coluna do tipo DATETIME para armazenar a data e hora combinadas
