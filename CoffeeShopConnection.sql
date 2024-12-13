@@ -1,4 +1,16 @@
+
+
 DESCRIBE coffee_shop_sales;
+
+-- Adicionar uma nova coluna do tipo DATETIME para armazenar a data e hora combinadas
+ALTER TABLE coffee_shop_sales ADD COLUMN transaction_datetime DATETIME;
+
+-- Atualizar a nova coluna combinando os valores das colunas transaction_date e transaction_time
+UPDATE coffee_shop_sales
+SET transaction_datetime = STR_TO_DATE(
+    CONCAT(transaction_date, ' ', transaction_time), -- Combina data e hora em um único formato string
+    '%Y-%m-%d %H:%i:%s' -- Define o formato esperado para converter a string em DATETIME
+);
 
 -- MUDA O NOME DA COLUNA `ï»¿transaction_id` para 'transaction_id'
 ALTER TABLE coffee_shop_sales
